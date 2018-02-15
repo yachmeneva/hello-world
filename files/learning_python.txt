@@ -1,0 +1,4 @@
+In Python you can make websites with less affords.
+In Python you can create your own classes and superclasses.
+In Python you can make multistring comments using """.
+In Python you can use русские буквы)))
